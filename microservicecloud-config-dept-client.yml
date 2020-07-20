@@ -14,7 +14,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://127.0.0.1:3306/clouddb1
     username: root
-    password: 123456
+    password: 123
 
 
  
@@ -43,7 +43,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://127.0.0.1:3306/clouddb1
     username: root
-    password: 123456
+    password: 123
  
  
 eureka: 
